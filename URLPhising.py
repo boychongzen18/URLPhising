@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 ##########################################################################
-#   Code By https://github.com/UndeadSec
+#   Original version by UNDEADSEC https://github.com/UndeadSec
 #   REMODE
 #   Github  : https://github.com/boychongzen18
 #   Email   : hackingforlive@yahoo.com
