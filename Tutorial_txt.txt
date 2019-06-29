@@ -1,0 +1,12 @@
+cara buat domain phising online
+
+
+1.Punya Scrip Phising & Facelogin Akun All Sosmed > Cari Aja di Mbah Google Banyak
+2.bisa Buat Domain Sendiri & Brending Domain biar lebih Bagus Domainya Contoh : u0430cebook.ml 
+  aktif Domain 1thn,,Kalau gak bisa bisa Order ke saya,saya berikan gratissss & cuma2 aja Domain Phising 1thn
+3.Bisa Install Termux di Android Masing2,jgn lupa install paket2 pendukung seperti : python,git,nano,php dll
+4.Download Scriptnya di Github Saya : https://github.com/boychongzen18/URLPhising
+
+Sekian Terima Gaji
+
+Regard Boychongzen aka Xroot
