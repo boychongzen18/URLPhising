@@ -1,5 +1,7 @@
 # URLPhising All Sosmed
 
+# Working Via Termux & Windows All Version
+
 # LIVE TARGET WINDOWS 7
 ![be](https://raw.githubusercontent.com/boychongzen18/URLPhising/master/URLPhising.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/URLPhising/master/fb1.jpg)
